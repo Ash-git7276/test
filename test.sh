@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "How are you"
-echo "what are you doing"
+echo "adding file to the branch : future"
